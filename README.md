@@ -1,24 +1,442 @@
+# 👋 Hi, I'm Rupam Hazra
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rupam_hazra_official) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rupam-hazra-334995277) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rupamhazra60) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rupamhazra60@gmail.com) 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:06B6D4,100:10B981&height=200&section=header&text=Rupam%20Hazra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rupamhazra007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=rupamhazra007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rupamhazra007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=750&lines=Final-Year+CSE+Student;AI+%26+ML+Enthusiast;Cybersecurity+Enthusiast;Full-Stack+Developer;Research+%26+Innovation;Building+Secure+%26+Intelligent+Systems" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rupamhazra007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rupamhazra007&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/rupamhazra007">
+    <img src="https://img.shields.io/github/followers/rupamhazra007?label=Followers&style=for-the-badge&logo=github&color=181717" />
+  </a>
+  <a href="https://github.com/rupamhazra007">
+    <img src="https://img.shields.io/github/stars/rupamhazra007?label=Stars&style=for-the-badge&logo=github&color=yellow" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=rupamhazra007&style=for-the-badge&color=blueviolet" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=rupamhazra007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+```text
+🎓 Final-Year B.Tech Computer Science & Engineering Student
+🤖 AI & Machine Learning Enthusiast
+🛡️ Cybersecurity Enthusiast
+💻 Full-Stack Developer
+🔬 Research & Innovation
+🚀 Project Builder
+📚 Continuous Learner
+```
+
+I am a Computer Science & Engineering student passionate about building **intelligent, secure, and practical technology solutions**.
+
+My primary interests include:
+
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* 🛡️ Cybersecurity
+* 🌐 Web Development
+* 🔐 Secure Computing
+* 🔬 Research & Innovation
+* 📊 Data & Intelligent Systems
+
+---
+
+## 🎯 Current Focus
+
+```text
+🤖 Artificial Intelligence
+🧠 Machine Learning
+🛡️ Cybersecurity
+🌐 Full-Stack Development
+🔐 Secure Systems
+🔬 Research & Publications
+🚀 Open Source Projects
+```
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,php,js" />
+</p>
+
+---
+
+## 🌐 Web Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php" />
+</p>
+
+---
+
+## 🤖 AI / Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+```text
+Machine Learning
+Artificial Intelligence
+Natural Language Processing
+Phishing Detection
+Predictive Analysis
+Intelligent Systems
+```
+
+---
+
+## 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,oracle" />
+</p>
+
+```text
+MySQL
+Oracle SQL
+Database Management
+SQL Queries
+Database Design
+```
+
+---
+
+## 🔐 Cybersecurity
+
+```text
+🛡️ Phishing Detection
+🔍 Threat Analysis
+🌐 Web Security
+🔐 Secure Authentication
+🧪 OWASP Security Testing
+🔎 URL Analysis
+📡 Threat Intelligence
+```
+
+---
+
+## ⚙️ Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+```text
+Git
+GitHub
+VS Code
+Linux
+XAMPP
+Apache
+MySQL
+```
+
+---
+
+# 🚀 Featured Project
+
+## 🛡️ PhishSafeguard
+
+### AI-Powered Phishing URL Detection System
+
+> An AI-driven cybersecurity platform designed to detect potentially malicious and phishing URLs using machine learning, rule-based analysis, and threat intelligence.
+
+### ✨ Features
+
+* 🔍 Phishing URL Detection
+* 🤖 Machine Learning Analysis
+* 🛡️ Rule-Based Security Analysis
+* 🌐 Threat Intelligence
+* 📊 Risk Score Calculation
+* 🔎 URL Feature Analysis
+* 🔐 Secure Authentication
+* 🔑 OTP / Two-Factor Authentication
+* 📈 Security Dashboard
+* 📋 URL Scan History
+* 🧪 OWASP QuickCheck
+* 📊 Security Analytics
+* 📁 CSV Export
+
+### 🧰 Technology Stack
+
+```text
+HTML
+CSS
+JavaScript
+PHP
+MySQL
+Machine Learning
+Cybersecurity
+OWASP
+Apache / XAMPP
+```
+
+### 🔗 Project
+
+<p align="center">
+  <a href="https://github.com/rupamhazra007/PhishSafeguard-AI-Powered-Phishing-URL-Detection-System">
+    <img src="https://img.shields.io/badge/View%20Project-PhishSafeguard-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# 📚 Research & Innovation
+
+My academic and research interests focus on the intersection of:
+
+```text
+Artificial Intelligence
+        +
+Machine Learning
+        +
+Cybersecurity
+        +
+Data Privacy
+        +
+Intelligent Systems
+```
+
+### 🔬 Research Areas
+
+* Artificial Intelligence
+* Machine Learning
+* Cybersecurity
+* Data Privacy
+* Secure Communication
+* Intelligent Healthcare Systems
+* Cognitive Computing
+* AI-Based Security
+* Privacy & Compliance
+
+---
+
+# 🌐 Socials
+
+<p align="center">
+
+<a href="https://github.com/rupamhazra007">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rupamhazra007&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupamhazra007&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=rupamhazra007&theme=tokyonight&hide_border=true"
+    width="70%"
+  />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rupamhazra007&theme=tokyo-night&hide_border=true&area=true"
+    width="95%"
+  />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=rupamhazra007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
+    width="90%"
+  />
+</p>
+
+---
+
+# 📊 Profile Summary
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rupamhazra007&theme=tokyonight"
+    width="95%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rupamhazra007&theme=tokyonight"
+    width="45%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rupamhazra007&theme=tokyonight"
+    width="45%"
+  />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/rupamhazra007/rupamhazra007/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="95%"
+  />
+</p>
+
+---
+
+# ✍️ Random Dev Quote
+
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+    width="80%"
+  />
+</p>
+
+---
+
+# 🔝 Top Contributed Repository
+
+<p align="center">
+  <img
+    src="https://github-contributor-stats.vercel.app/api?username=rupamhazra007&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"
+    width="90%"
+  />
+</p>
+
+---
+
+# 💡 What I Love Building
+
+<table align="center">
+<tr>
+<td align="center" width="200">
+
+### 🤖 AI
+
+Intelligent systems powered by AI & ML
+
+</td>
+
+<td align="center" width="200">
+
+### 🛡️ Security
+
+Secure and privacy-aware applications
+
+</td>
+
+<td align="center" width="200">
+
+### 🌐 Web
+
+Modern and practical web applications
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🔬 Research
+
+Exploring emerging technologies
+
+</td>
+
+<td align="center">
+
+### 🚀 Projects
+
+Turning ideas into working systems
+
+</td>
+
+<td align="center">
+
+### 📚 Learning
+
+Always learning something new
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🤝 Let's Connect & Collaborate
+
+I'm interested in collaborating on:
+
+```text
+🤖 Artificial Intelligence Projects
+🧠 Machine Learning Projects
+🛡️ Cybersecurity Projects
+🌐 Full-Stack Applications
+🔐 Secure Computing
+🔬 Research Projects
+🚀 Open Source Projects
+```
+
+If you're working on something interesting, feel free to connect and collaborate!
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:06B6D4,100:10B981&height=120&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  <b>⭐ Thanks for visiting my profile!</b>
+</p>
+
+<p align="center">
+  <i>Build • Learn • Secure • Innovate</i>
+</p>
+
+<p align="center">
+  <sub>© Rupam Hazra</sub>
+</p>
