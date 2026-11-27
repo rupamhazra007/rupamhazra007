@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Rupam Hazra
 
 <p align="center">
@@ -5,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=750&lines=Final-Year+CSE+Student;AI+%26+ML+Enthusiast;Cybersecurity+Enthusiast;Full-Stack+Developer;Research+%26+Innovation;Building+Secure+%26+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=850&lines=Computer+Science+%26+Engineering+Graduate;Odoo+Functional+Consultant;Primacy+Infotech+Pvt.+Ltd.;Enterprise+ERP+%26+Business+Automation;AI+%26+Cybersecurity+Researcher;Software+%26+Full-Stack+Developer;40%2B+Scopus-Indexed+Research+Works;3+Patents+%7C+13+Book+Chapters;2x+All-India+Hackathon+Winner;Photographer+%26+Creative+Professional;Engineering+Solutions.+Driving+Innovation." />
 </p>
 
 <p align="center">
@@ -18,37 +19,194 @@
   <img src="https://komarev.com/ghpvc/?username=rupamhazra007&style=for-the-badge&color=blueviolet" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech-CSE_Graduate-2563EB?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Odoo-Functional_Consulting-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Kolkata,_India-10B981?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
 
 ```text
-🎓 Final-Year B.Tech Computer Science & Engineering Student
-🤖 AI & Machine Learning Enthusiast
-🛡️ Cybersecurity Enthusiast
-💻 Full-Stack Developer
-🔬 Research & Innovation
-🚀 Project Builder
-📚 Continuous Learner
+💼 Odoo Functional Consultant | Primacy Infotech Pvt. Ltd.
+🎓 B.Tech Graduate in Computer Science & Engineering
+🏢 Enterprise ERP & Business Process Automation
+🤖 Artificial Intelligence & Machine Learning
+🛡️ Cybersecurity & Secure Computing
+💻 Software & Full-Stack Development
+🔬 Researcher & Technology Innovator
+📚 40+ Scopus-Indexed Research Works
+📖 13 Book Chapters
+💡 3 Patents
+🏆 2× All-India Hackathon Winner
+🥇 4× Hackathon Finalist
+📸 Photographer, Editor & Videographer
+🚀 Continuous Learner & Problem Solver
 ```
 
-I am a Computer Science & Engineering student passionate about building **intelligent, secure, and practical technology solutions**.
+I am a **Computer Science & Engineering graduate, technology professional, researcher, and innovator**, currently working at **Primacy Infotech Pvt. Ltd., Kolkata**, in the domain of **Odoo ERP and Functional Consulting**.
 
-My primary interests include:
+My professional interests revolve around enterprise resource planning, business process automation, software development, artificial intelligence, machine learning, cybersecurity, and emerging technologies.
 
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* 🛡️ Cybersecurity
-* 🌐 Web Development
-* 🔐 Secure Computing
-* 🔬 Research & Innovation
-* 📊 Data & Intelligent Systems
+I am passionate about transforming complex business requirements into **intelligent, secure, scalable, and practical technology solutions**.
+
+Beyond my professional career, I actively explore research, technological innovation, open-source development, photography, videography, and creative visual storytelling.
+
+> **Engineering Solutions. Driving Innovation. Creating Impact.**
+
+---
+
+# 💼 Professional Experience
+
+## 🏢 Primacy Infotech Pvt. Ltd.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Company-Primacy_Infotech_Pvt._Ltd.-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Domain-Odoo_ERP-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Currently_Working-10B981?style=for-the-badge"/>
+</p>
+
+**Odoo Functional Consulting | Enterprise ERP Solutions**
+
+📍 Sector V, Salt Lake, Kolkata, India
+
+📅 August 2026 – Present
+
+### Professional Responsibilities
+
+- Odoo ERP configuration and functional implementation
+- Business requirement analysis
+- Enterprise business process mapping
+- Workflow configuration and automation
+- Functional testing and system validation
+- ERP module integration
+- Business process documentation
+- Product demonstrations and training videos
+- Functional troubleshooting
+- Enterprise solution development
+- Manufacturing and inventory workflow configuration
+- Understanding real-world business requirements
+
+### ⚙️ ERP Module Expertise
+
+| Module | Functional Areas |
+|---|---|
+| CRM | Leads, Opportunities, Pipeline Management |
+| Sales | Quotations, Sales Orders, Customer Management |
+| Purchase | RFQs, Purchase Orders, Vendor Management |
+| Inventory | Receipts, Deliveries, Internal Transfers |
+| Manufacturing | Bill of Materials, Manufacturing Orders, Work Orders |
+| Quality | Control Points, Quality Checks, Quality Alerts |
+| Invoicing | Customer Invoices, Vendor Bills |
+| Project | Projects, Tasks, Workflow Management |
+| Employees | Employee Records and HR Operations |
+| Contacts | Customer and Vendor Management |
+
+---
+
+# 🎓 Education
+
+## Bachelor of Technology — Computer Science & Engineering
+
+**Global Institute of Management and Technology (GIMT)**
+
+Affiliated to **Maulana Abul Kalam Azad University of Technology (MAKAUT), West Bengal**
+
+```text
+Degree        : Bachelor of Technology
+Specialization: Computer Science & Engineering
+Status        : Graduated
+Passing Year  : 2026
+```
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Degree-B.Tech-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Specialization-Computer_Science-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Graduation-2026-10B981?style=for-the-badge"/>
+</p>
+
+---
+
+# 🏆 Research & Professional Achievements
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Scopus_Research-40%2B-2563EB?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Patents-3-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Book_Chapters-13-059669?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hackathon_Winner-2X-D97706?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hackathon_Finalist-4X-DC2626?style=for-the-badge"/>
+
+</p>
+
+<table align="center">
+<tr>
+<td align="center" width="200">
+
+### 📚 40+
+
+Scopus-Indexed Research Works
+
+</td>
+
+<td align="center" width="200">
+
+### 💡 3
+
+Patents
+
+</td>
+
+<td align="center" width="200">
+
+### 📖 13
+
+Book Chapters
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🏆 2×
+
+All-India Hackathon Winner
+
+</td>
+
+<td align="center">
+
+### 🥇 4×
+
+Hackathon Finalist
+
+</td>
+
+<td align="center">
+
+### 🎓 B.Tech
+
+CSE Graduate
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎯 Current Focus
 
 ```text
+🏢 Enterprise Resource Planning
+⚙️ Odoo ERP & Functional Consulting
+📊 Business Process Automation
 🤖 Artificial Intelligence
 🧠 Machine Learning
 🛡️ Cybersecurity
@@ -56,6 +214,7 @@ My primary interests include:
 🔐 Secure Systems
 🔬 Research & Publications
 🚀 Open Source Projects
+📈 Enterprise Digital Transformation
 ```
 
 ---
@@ -73,8 +232,44 @@ My primary interests include:
 ## 🌐 Web Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap" />
 </p>
+
+```text
+HTML5
+CSS3
+JavaScript
+PHP
+Web Application Development
+Responsive Web Design
+Frontend & Backend Development
+```
+
+---
+
+## 🏢 ERP & Enterprise Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ERP-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Business_Automation-059669?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Functional_Consulting-7C3AED?style=for-the-badge"/>
+</p>
+
+```text
+Odoo ERP
+Functional Consulting
+Business Process Mapping
+Enterprise Workflow Management
+CRM & Sales Management
+Purchase & Inventory Management
+Manufacturing Management
+Quality Management
+Invoicing & Billing
+ERP Configuration
+Functional Testing
+Business Requirement Analysis
+```
 
 ---
 
@@ -85,12 +280,16 @@ My primary interests include:
 </p>
 
 ```text
-Machine Learning
 Artificial Intelligence
+Machine Learning
 Natural Language Processing
-Phishing Detection
 Predictive Analysis
+Classification Algorithms
+Clustering Algorithms
+Phishing Detection
 Intelligent Systems
+AI-Based Security
+Generative AI
 ```
 
 ---
@@ -107,6 +306,8 @@ Oracle SQL
 Database Management
 SQL Queries
 Database Design
+Relational Database Systems
+Database Normalization
 ```
 
 ---
@@ -121,6 +322,11 @@ Database Design
 🧪 OWASP Security Testing
 🔎 URL Analysis
 📡 Threat Intelligence
+🔑 AES Encryption
+📁 Secure File Transfer
+🔒 Data Privacy
+🛡️ SQL Injection Detection
+🔐 Two-Factor Authentication
 ```
 
 ---
@@ -128,17 +334,20 @@ Database Design
 ## ⚙️ Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda" />
 </p>
 
 ```text
 Git
 GitHub
-VS Code
+Visual Studio Code
 Linux
 XAMPP
 Apache
 MySQL
+Anaconda
+Odoo ERP
+Microsoft Excel
 ```
 
 ---
@@ -150,6 +359,8 @@ MySQL
 ### AI-Powered Phishing URL Detection System
 
 > An AI-driven cybersecurity platform designed to detect potentially malicious and phishing URLs using machine learning, rule-based analysis, and threat intelligence.
+
+PhishSafeguard combines cybersecurity principles, intelligent URL analysis, secure authentication, and practical web technologies to help users identify potentially malicious websites.
 
 ### ✨ Features
 
@@ -168,6 +379,10 @@ MySQL
 * 📁 CSV Export
 
 ### 🧰 Technology Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python" />
+</p>
 
 ```text
 HTML
@@ -191,9 +406,46 @@ Apache / XAMPP
 
 ---
 
+# 💻 Other Projects
+
+| Project | Domain | Technologies |
+|---|---|---|
+| PhishSafeguard | AI & Cybersecurity | PHP, MySQL, ML |
+| Secure Password Manager | Cybersecurity | Python, AES |
+| Encrypted Chat Application | Secure Communication | Python, Socket, AES |
+| SQL Injection Scanner | Web Security | Python |
+| Encrypted File Transfer | Data Security | Python, AES, HMAC |
+| YouTube Video Summarizer | Generative AI | Gemini API |
+| Hotel Booking System | Web Development | PHP, MySQL |
+| Weather Application | Web Development | PHP, API |
+| Train Time Table System | Database Application | PHP, MySQL |
+| Nearby Places Recommender | Web Application | PHP |
+
+---
+
+# 💼 Internship Experience
+
+## 🛡️ Syntecxhub
+
+**Cybersecurity Internship**
+
+```text
+Secure Password Management
+Encrypted Communication
+SQL Injection Detection
+Secure File Transfer
+Cryptography
+AES Encryption
+HMAC Authentication
+```
+
+My internship experience focused on practical cybersecurity projects, secure application development, encryption techniques, and vulnerability detection.
+
+---
+
 # 📚 Research & Innovation
 
-My academic and research interests focus on the intersection of:
+My research interests focus on the intersection of:
 
 ```text
 Artificial Intelligence
@@ -203,6 +455,8 @@ Machine Learning
 Cybersecurity
         +
 Data Privacy
+        +
+Enterprise Technologies
         +
 Intelligent Systems
 ```
@@ -217,7 +471,38 @@ Intelligent Systems
 * Intelligent Healthcare Systems
 * Cognitive Computing
 * AI-Based Security
+* Natural Language Processing
 * Privacy & Compliance
+* Deep Learning
+* Enterprise Digital Transformation
+
+I believe research and innovation play an essential role in solving real-world problems, improving existing technologies, and developing intelligent systems for the future.
+
+---
+
+# 📸 Beyond Technology
+
+Alongside my professional career in technology, I am passionate about photography, visual storytelling, and creative production.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Photography-111827?style=for-the-badge&logo=canon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Videography-DC2626?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Content_Creation-7C3AED?style=for-the-badge"/>
+</p>
+
+```text
+📸 Professional Photography
+🎬 Videography
+🎨 Photo Editing
+🎞️ Video Editing
+🌆 Street & Urban Photography
+👤 Portrait Photography
+📷 Creative Visual Storytelling
+🚀 Digital Content Creation
+```
+
+> Technology is my profession. Photography is my creative passion.
 
 ---
 
@@ -355,7 +640,15 @@ Intelligent Systems
 <tr>
 <td align="center" width="200">
 
-### 🤖 AI
+### 🏢 Enterprise ERP
+
+Scalable enterprise solutions and intelligent business workflows
+
+</td>
+
+<td align="center" width="200">
+
+### 🤖 Artificial Intelligence
 
 Intelligent systems powered by AI & ML
 
@@ -363,17 +656,9 @@ Intelligent systems powered by AI & ML
 
 <td align="center" width="200">
 
-### 🛡️ Security
+### 🛡️ Cybersecurity
 
 Secure and privacy-aware applications
-
-</td>
-
-<td align="center" width="200">
-
-### 🌐 Web
-
-Modern and practical web applications
 
 </td>
 </tr>
@@ -381,29 +666,71 @@ Modern and practical web applications
 <tr>
 <td align="center">
 
+### 🌐 Web Applications
+
+Modern and practical software solutions
+
+</td>
+
+<td align="center">
+
 ### 🔬 Research
 
-Exploring emerging technologies
+Exploring emerging technologies and innovation
 
 </td>
 
 <td align="center">
 
-### 🚀 Projects
+### 🚀 Automation
 
-Turning ideas into working systems
+Simplifying complex business processes
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 📊 Business Solutions
+
+Transforming business requirements into practical systems
 
 </td>
 
 <td align="center">
 
-### 📚 Learning
+### 📸 Creativity
 
-Always learning something new
+Visual storytelling through photography and videography
+
+</td>
+
+<td align="center">
+
+### 📚 Continuous Learning
+
+Growing through knowledge, experience and experimentation
 
 </td>
 </tr>
 </table>
+
+---
+
+# 🎯 Professional Vision
+
+My vision is to bridge the gap between **enterprise technology, artificial intelligence, cybersecurity, and real-world business requirements**.
+
+I aspire to contribute to the development of intelligent, secure, scalable, and innovative technology solutions that create meaningful business and societal impact.
+
+```text
+Learn Continuously.
+Think Strategically.
+Build Intelligently.
+Innovate Fearlessly.
+Deliver Meaningful Impact.
+```
 
 ---
 
@@ -412,16 +739,30 @@ Always learning something new
 I'm interested in collaborating on:
 
 ```text
+🏢 Enterprise ERP Solutions
+⚙️ Odoo Implementation Projects
+📊 Business Process Automation
 🤖 Artificial Intelligence Projects
 🧠 Machine Learning Projects
 🛡️ Cybersecurity Projects
 🌐 Full-Stack Applications
 🔐 Secure Computing
-🔬 Research Projects
+🔬 Research & Innovation
 🚀 Open Source Projects
+📸 Creative & Digital Projects
 ```
 
-If you're working on something interesting, feel free to connect and collaborate!
+Whether it's enterprise technology, software development, research, innovation, or creative collaboration, I am always open to exploring meaningful opportunities and connecting with like-minded professionals.
+
+---
+
+<p align="center">
+  <b>💼 Technology Professional | 🔬 Researcher | 💡 Innovator | 📸 Creative Professional</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=Engineering+Solutions.;Driving+Innovation.;Creating+Impact.;Earned%2C+Not+Given.;Hustle.+Earn.+Repeat." />
+</p>
 
 ---
 
@@ -434,9 +775,9 @@ If you're working on something interesting, feel free to connect and collaborate
 </p>
 
 <p align="center">
-  <i>Build • Learn • Secure • Innovate</i>
+  <i>Build • Learn • Secure • Innovate • Inspire</i>
 </p>
 
 <p align="center">
-  <sub>© Rupam Hazra</sub>
+  <sub>© 2026 Rupam Hazra | All Rights Reserved</sub>
 </p>
